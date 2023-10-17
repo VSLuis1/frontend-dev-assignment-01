@@ -41,7 +41,7 @@ To get started with this assignment, follow these steps:
 [![website](demo.jpg)]
 
 ## Live
-[Landing Page](https://frontend-dev-assignment.vercel.app/)
+[Landing Page](https://landing-page-nine-smoky.vercel.app/)
 
 
 
